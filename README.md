@@ -1,4 +1,4 @@
-### Hello World 👋, I'm Moses eteku!
+### Hello World 👋, I'm Moses eteku(Shamos)!
 
 I am a ✨ _Full Stack Mobile and Web developer, Graphics Designer and a young enterpreneur_ ✨, 
 
