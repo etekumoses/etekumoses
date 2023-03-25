@@ -11,7 +11,7 @@ I am a ✨ _Full Stack Mobile and Web developer, Graphics Designer and a young e
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" title="Laravel" alt="laravel" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="Express" alt="Express" width="40" height="40"/>&nbsp;  
 </div>
 
