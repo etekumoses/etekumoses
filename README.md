@@ -5,8 +5,8 @@ I am a ✨ _Full Stack Mobile and Web developer, Graphics Designer and a young e
 
 - ⚡ More interested in Problem solving and innovating ...
 
-[![Etekumoses's github stats](https://github-readme-stats.vercel.app/api?username=etekumoses)](https://github.com/anuraghazra/github-readme-stats)
-
+<!-- [![Etekumoses's github stats](https://github-readme-stats.vercel.app/api?username=etekumoses)](https://github.com/anuraghazra/github-readme-stats)
+ -->
 ### :hammer_and_wrench: Frameworks :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
